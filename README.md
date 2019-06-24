@@ -1,14 +1,13 @@
 ##码匠社区
 
 ##资料
-https://spring.io/guides
-https://spring.io/guides/gs/serving-web-content/
-
-##博客网站
-https://elasticsearch.cn/explore
-
-##哔站教学视频
-https://www.bilibili.com/video/av50200264/?p=3
+[Spring 文档](https://spring.io/guides)
+[Spring Web 文档](https://spring.io/guides/gs/serving-web-content/)
+[es社区](https://elasticsearch.cn/explore)
+[教学视频](https://www.bilibili.com/video/av50200264/?p=3)
+[Bootstrap 起步](https://v3.bootcss.com/getting-started/)
+[Github OAuth](https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/)
 
 ##工具
-https://git-scm.com/download
+[Git](https://git-scm.com/download)
+[Visual Paradigm](https://www.visual-paradigm.com/cn/)

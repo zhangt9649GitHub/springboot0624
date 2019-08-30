@@ -1,7 +1,7 @@
 package com.zt.springboot0624.dto;
 
 /**
- * @author 张婷
+ * @author zt
  * @date 2019/6/24 15:23
  */
 
